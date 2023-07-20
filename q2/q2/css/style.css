@@ -18,5 +18,5 @@
 }
 
 .list--card:last-child {
-  margin-right: none;
+  margin-right:0;
 }
