@@ -17,6 +17,6 @@
   background: #d2b48c;
 }
 
-.li:last-child list--card {
-margin-right: none;
+.list--card:last-child {
+  margin-right: none;
 }
